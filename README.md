@@ -1,0 +1,2 @@
+# PartyUp
+Discord bot
